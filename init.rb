@@ -3,8 +3,8 @@ Redmine::Plugin.register :redmine_pbx do
   author 'Andriy Malakhivskyy'
   description 'This is a plugin for Redmine'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/andrijmalah/redmine_pbx'
+  author_url 'https://github.com/andrijmalah/redmine_pbx'
 end
 
 Rails.application.config.to_prepare do
